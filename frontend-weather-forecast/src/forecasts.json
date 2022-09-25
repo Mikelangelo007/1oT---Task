@@ -1,0 +1,717 @@
+{
+  "forecasts": [
+    {
+      "forecast": [
+        {
+          "date": "2022-09-25",
+          "night": {
+            "phenomenon": "Light shower",
+            "tempmin": "-1",
+            "tempmax": "9",
+            "text": "Cloudy with clear spells. Light rain in many places. Locally fog. Variable wind 1-7 m/s. Air temperature +1..+7, under clear skies -1°C possible, on coast up to 9°C.\n\n",
+            "place": [
+              {
+                "name": "Harku",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmin": "5"
+              },
+              {
+                "name": "Jõhvi",
+                "phenomenon": "Light rain",
+                "tempmin": "7"
+              },
+              {
+                "name": "Tartu",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmin": "3"
+              },
+              {
+                "name": "Pärnu",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmin": "7"
+              },
+              {
+                "name": "Kuressaare",
+                "phenomenon": "Light shower",
+                "tempmin": "9"
+              },
+              {
+                "name": "Türi",
+                "phenomenon": "Fog",
+                "tempmin": "2"
+              }
+            ],
+            "wind": [
+              {
+                "name": "Kuusiku",
+                "direction": "South wind",
+                "speedmin": "1",
+                "speedmax": "4",
+                "gust": {}
+              },
+              {
+                "name": "Väike-Maarja",
+                "direction": "North wind",
+                "speedmin": "1",
+                "speedmax": "4",
+                "gust": {}
+              },
+              {
+                "name": "Võrtsjärv",
+                "direction": "Southeast wind",
+                "speedmin": "1",
+                "speedmax": "4",
+                "gust": {}
+              }
+            ],
+            "sea": "Forecast for Baltic Sea valid 24 hours from 19:00 Sep 25 to 19:00 UTC Sep 26, 2022.\n\nWarnings:\nNorthern Baltic: by day southeast, south increasing 12, in gusts up to 17 m/s. Wave height 1-2.5 m. \n\nWeather summary: southeastern part of Low spreading to the Baltic Sea from Scandinavia.\n\nNorthern Baltic: southerly 4-9, in gusts up to 12 m/s, by day southeast, south 6-12, in gusts up to 17 m/s. Wave height by day 1-2.5 m. Rain in many places, locally thunder possible. Visibility from good to moderate. \n\nWestern Gulf of Finland, Northern Gulf of Riga, Moonsund: variable 1-7 m/s, by morning becoming southerly 3-9 m/s, by day southeast, south 3-8, in gusts up to 12 m/s. Locally rain showers. At night locally fog possible, otherwise visibility from good to moderate.\n\nEastern Gulf of Finland: variable 1-7 m/s. Rain. Visibility moderate. ",
+            "peipsi": "Variable wind 1-4 m/s. Wave height up to 0.3 m. At times rain. Visibility moderate, towards morning fog possible. Air temperature 5..8°C."
+          },
+          "day": {
+            "phenomenon": "Cloudy with clear spells",
+            "tempmin": "10",
+            "tempmax": "15",
+            "text": "Cloudy with clear spells. Locally light rain. In the evening the sky is clearing up.\nEasterly wind 2-8, on islands in gusts 11 m/s. Air temperature 10..15°C.",
+            "place": [
+              {
+                "name": "Harku",
+                "phenomenon": "Variable clouds",
+                "tempmax": "14"
+              },
+              {
+                "name": "Jõhvi",
+                "phenomenon": "Light shower",
+                "tempmax": "11"
+              },
+              {
+                "name": "Tartu",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmax": "14"
+              },
+              {
+                "name": "Pärnu",
+                "phenomenon": "Light shower",
+                "tempmax": "14"
+              },
+              {
+                "name": "Kuressaare",
+                "phenomenon": "Variable clouds",
+                "tempmax": "14"
+              },
+              {
+                "name": "Türi",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmax": "14"
+              }
+            ],
+            "wind": [
+              {
+                "name": "Kuusiku",
+                "direction": "Southeast wind",
+                "speedmin": "3",
+                "speedmax": "8",
+                "gust": {}
+              },
+              {
+                "name": "Väike-Maarja",
+                "direction": "Southeast wind",
+                "speedmin": "2",
+                "speedmax": "6",
+                "gust": {}
+              },
+              {
+                "name": "Võrtsjärv",
+                "direction": "South wind",
+                "speedmin": "2",
+                "speedmax": "6",
+                "gust": {}
+              }
+            ],
+            "sea": {},
+            "peipsi": "Southeast, south wind, around evening easterly wind 2-6 m/s. Wave height up to 0.5 m. Drizzle possible. Visibility moderate or good. Air temperature 10..12°C."
+          }
+        },
+        {
+          "date": "2022-09-27",
+          "night": {
+            "phenomenon": "Variable clouds",
+            "tempmin": "-1",
+            "tempmax": "11",
+            "text": "Slightly and partly cloudy. Mainly dry. Fog in many places. Easterly wind 2-8, on islands in gusts up to 12 m/s. Air temperature -1..+6, on coast up to 11°C."
+          },
+          "day": {
+            "phenomenon": "Moderate shower",
+            "tempmin": "11",
+            "tempmax": "15",
+            "text": "Variable clouds. Locally rain. Easterly wind 2-8, on islands in gusts 12 m/s. Air temperature 11..15°C."
+          }
+        },
+        {
+          "date": "2022-09-28",
+          "night": {
+            "phenomenon": "Moderate shower",
+            "tempmin": "2",
+            "tempmax": "11",
+            "text": "Variable clouds. Rain in many places. Easterly wind 2-8, on islands in gusts 11 m/s. Air temperature 2..7, on coast up to 11°C."
+          },
+          "day": {
+            "phenomenon": "Moderate shower",
+            "tempmin": "9",
+            "tempmax": "14",
+            "text": "Cloudy with clear spells. Rain in many places. East, northeast wind 5-10, on islands and coast in gusts 15 m/s. Air temperature 9..14°C."
+          }
+        },
+        {
+          "date": "2022-09-29",
+          "night": {
+            "phenomenon": "Moderate shower",
+            "tempmin": "3",
+            "tempmax": "11",
+            "text": "Cloudy with clear spells. Locally rain. East, northeast wind 5-10, on islands and coast in gusts 15, in the morning up to 18 m/s. Air temperature 3..8, on coast up to 11°C."
+          },
+          "day": {
+            "phenomenon": "Moderate rain",
+            "tempmin": "8",
+            "tempmax": "13",
+            "text": "Overcast, towards evening locally clear spells. Rain. Northeast, east wind 5-12, on islands and coast in gusts 15-18 m/s, towards evening decreasing southeast, south wind 4-10 m/s. Air temperature 8..13°C."
+          }
+        }
+      ]
+    },
+    {
+      "forecast": [
+        {
+          "date": "2022-09-26",
+          "night": {
+            "phenomenon": "Light shower",
+            "tempmin": "-1",
+            "tempmax": "9",
+            "text": "Cloudy with clear spells. Light rain in many places. Locally fog. Variable wind 1-7 m/s. Air temperature +1..+7, under clear skies -1°C possible, on coast up to 9°C.\n\n",
+            "place": [
+              {
+                "name": "Harku",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmin": "5"
+              },
+              {
+                "name": "Jõhvi",
+                "phenomenon": "Light rain",
+                "tempmin": "7"
+              },
+              {
+                "name": "Tartu",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmin": "3"
+              },
+              {
+                "name": "Pärnu",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmin": "7"
+              },
+              {
+                "name": "Kuressaare",
+                "phenomenon": "Light shower",
+                "tempmin": "9"
+              },
+              {
+                "name": "Türi",
+                "phenomenon": "Fog",
+                "tempmin": "2"
+              }
+            ],
+            "wind": [
+              {
+                "name": "Kuusiku",
+                "direction": "South wind",
+                "speedmin": "1",
+                "speedmax": "4",
+                "gust": {}
+              },
+              {
+                "name": "Väike-Maarja",
+                "direction": "North wind",
+                "speedmin": "1",
+                "speedmax": "4",
+                "gust": {}
+              },
+              {
+                "name": "Võrtsjärv",
+                "direction": "Southeast wind",
+                "speedmin": "1",
+                "speedmax": "4",
+                "gust": {}
+              }
+            ],
+            "sea": "Forecast for Baltic Sea valid 24 hours from 19:00 Sep 25 to 19:00 UTC Sep 26, 2022.\n\nWarnings:\nNorthern Baltic: by day southeast, south increasing 12, in gusts up to 17 m/s. Wave height 1-2.5 m. \n\nWeather summary: southeastern part of Low spreading to the Baltic Sea from Scandinavia.\n\nNorthern Baltic: southerly 4-9, in gusts up to 12 m/s, by day southeast, south 6-12, in gusts up to 17 m/s. Wave height by day 1-2.5 m. Rain in many places, locally thunder possible. Visibility from good to moderate. \n\nWestern Gulf of Finland, Northern Gulf of Riga, Moonsund: variable 1-7 m/s, by morning becoming southerly 3-9 m/s, by day southeast, south 3-8, in gusts up to 12 m/s. Locally rain showers. At night locally fog possible, otherwise visibility from good to moderate.\n\nEastern Gulf of Finland: variable 1-7 m/s. Rain. Visibility moderate. ",
+            "peipsi": "Variable wind 1-4 m/s. Wave height up to 0.3 m. At times rain. Visibility moderate, towards morning fog possible. Air temperature 5..8°C."
+          },
+          "day": {
+            "phenomenon": "Cloudy with clear spells",
+            "tempmin": "10",
+            "tempmax": "15",
+            "text": "Cloudy with clear spells. Locally light rain. In the evening the sky is clearing up.\nEasterly wind 2-8, on islands in gusts 11 m/s. Air temperature 10..15°C.",
+            "place": [
+              {
+                "name": "Harku",
+                "phenomenon": "Variable clouds",
+                "tempmax": "14"
+              },
+              {
+                "name": "Jõhvi",
+                "phenomenon": "Light shower",
+                "tempmax": "11"
+              },
+              {
+                "name": "Tartu",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmax": "14"
+              },
+              {
+                "name": "Pärnu",
+                "phenomenon": "Light shower",
+                "tempmax": "14"
+              },
+              {
+                "name": "Kuressaare",
+                "phenomenon": "Variable clouds",
+                "tempmax": "14"
+              },
+              {
+                "name": "Türi",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmax": "14"
+              }
+            ],
+            "wind": [
+              {
+                "name": "Kuusiku",
+                "direction": "Southeast wind",
+                "speedmin": "3",
+                "speedmax": "8",
+                "gust": {}
+              },
+              {
+                "name": "Väike-Maarja",
+                "direction": "Southeast wind",
+                "speedmin": "2",
+                "speedmax": "6",
+                "gust": {}
+              },
+              {
+                "name": "Võrtsjärv",
+                "direction": "South wind",
+                "speedmin": "2",
+                "speedmax": "6",
+                "gust": {}
+              }
+            ],
+            "sea": {},
+            "peipsi": "Southeast, south wind, around evening easterly wind 2-6 m/s. Wave height up to 0.5 m. Drizzle possible. Visibility moderate or good. Air temperature 10..12°C."
+          }
+        },
+        {
+          "date": "2022-09-27",
+          "night": {
+            "phenomenon": "Variable clouds",
+            "tempmin": "-1",
+            "tempmax": "11",
+            "text": "Slightly and partly cloudy. Mainly dry. Fog in many places. Easterly wind 2-8, on islands in gusts up to 12 m/s. Air temperature -1..+6, on coast up to 11°C."
+          },
+          "day": {
+            "phenomenon": "Moderate shower",
+            "tempmin": "11",
+            "tempmax": "15",
+            "text": "Variable clouds. Locally rain. Easterly wind 2-8, on islands in gusts 12 m/s. Air temperature 11..15°C."
+          }
+        },
+        {
+          "date": "2022-09-28",
+          "night": {
+            "phenomenon": "Moderate shower",
+            "tempmin": "2",
+            "tempmax": "11",
+            "text": "Variable clouds. Rain in many places. Easterly wind 2-8, on islands in gusts 11 m/s. Air temperature 2..7, on coast up to 11°C."
+          },
+          "day": {
+            "phenomenon": "Moderate shower",
+            "tempmin": "9",
+            "tempmax": "14",
+            "text": "Cloudy with clear spells. Rain in many places. East, northeast wind 5-10, on islands and coast in gusts 15 m/s. Air temperature 9..14°C."
+          }
+        },
+        {
+          "date": "2022-09-29",
+          "night": {
+            "phenomenon": "Moderate shower",
+            "tempmin": "3",
+            "tempmax": "11",
+            "text": "Cloudy with clear spells. Locally rain. East, northeast wind 5-10, on islands and coast in gusts 15, in the morning up to 18 m/s. Air temperature 3..8, on coast up to 11°C."
+          },
+          "day": {
+            "phenomenon": "Moderate rain",
+            "tempmin": "8",
+            "tempmax": "13",
+            "text": "Overcast, towards evening locally clear spells. Rain. Northeast, east wind 5-12, on islands and coast in gusts 15-18 m/s, towards evening decreasing southeast, south wind 4-10 m/s. Air temperature 8..13°C."
+          }
+        }
+      ]
+    },
+    {
+      "forecast": [
+        {
+          "date": "2022-09-27",
+          "night": {
+            "phenomenon": "Light shower",
+            "tempmin": "-1",
+            "tempmax": "9",
+            "text": "Cloudy with clear spells. Light rain in many places. Locally fog. Variable wind 1-7 m/s. Air temperature +1..+7, under clear skies -1°C possible, on coast up to 9°C.\n\n",
+            "place": [
+              {
+                "name": "Harku",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmin": "5"
+              },
+              {
+                "name": "Jõhvi",
+                "phenomenon": "Light rain",
+                "tempmin": "7"
+              },
+              {
+                "name": "Tartu",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmin": "3"
+              },
+              {
+                "name": "Pärnu",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmin": "7"
+              },
+              {
+                "name": "Kuressaare",
+                "phenomenon": "Light shower",
+                "tempmin": "9"
+              },
+              {
+                "name": "Türi",
+                "phenomenon": "Fog",
+                "tempmin": "2"
+              }
+            ],
+            "wind": [
+              {
+                "name": "Kuusiku",
+                "direction": "South wind",
+                "speedmin": "1",
+                "speedmax": "4",
+                "gust": {}
+              },
+              {
+                "name": "Väike-Maarja",
+                "direction": "North wind",
+                "speedmin": "1",
+                "speedmax": "4",
+                "gust": {}
+              },
+              {
+                "name": "Võrtsjärv",
+                "direction": "Southeast wind",
+                "speedmin": "1",
+                "speedmax": "4",
+                "gust": {}
+              }
+            ],
+            "sea": "Forecast for Baltic Sea valid 24 hours from 19:00 Sep 25 to 19:00 UTC Sep 26, 2022.\n\nWarnings:\nNorthern Baltic: by day southeast, south increasing 12, in gusts up to 17 m/s. Wave height 1-2.5 m. \n\nWeather summary: southeastern part of Low spreading to the Baltic Sea from Scandinavia.\n\nNorthern Baltic: southerly 4-9, in gusts up to 12 m/s, by day southeast, south 6-12, in gusts up to 17 m/s. Wave height by day 1-2.5 m. Rain in many places, locally thunder possible. Visibility from good to moderate. \n\nWestern Gulf of Finland, Northern Gulf of Riga, Moonsund: variable 1-7 m/s, by morning becoming southerly 3-9 m/s, by day southeast, south 3-8, in gusts up to 12 m/s. Locally rain showers. At night locally fog possible, otherwise visibility from good to moderate.\n\nEastern Gulf of Finland: variable 1-7 m/s. Rain. Visibility moderate. ",
+            "peipsi": "Variable wind 1-4 m/s. Wave height up to 0.3 m. At times rain. Visibility moderate, towards morning fog possible. Air temperature 5..8°C."
+          },
+          "day": {
+            "phenomenon": "Cloudy with clear spells",
+            "tempmin": "10",
+            "tempmax": "15",
+            "text": "Cloudy with clear spells. Locally light rain. In the evening the sky is clearing up.\nEasterly wind 2-8, on islands in gusts 11 m/s. Air temperature 10..15°C.",
+            "place": [
+              {
+                "name": "Harku",
+                "phenomenon": "Variable clouds",
+                "tempmax": "14"
+              },
+              {
+                "name": "Jõhvi",
+                "phenomenon": "Light shower",
+                "tempmax": "11"
+              },
+              {
+                "name": "Tartu",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmax": "14"
+              },
+              {
+                "name": "Pärnu",
+                "phenomenon": "Light shower",
+                "tempmax": "14"
+              },
+              {
+                "name": "Kuressaare",
+                "phenomenon": "Variable clouds",
+                "tempmax": "14"
+              },
+              {
+                "name": "Türi",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmax": "14"
+              }
+            ],
+            "wind": [
+              {
+                "name": "Kuusiku",
+                "direction": "Southeast wind",
+                "speedmin": "3",
+                "speedmax": "8",
+                "gust": {}
+              },
+              {
+                "name": "Väike-Maarja",
+                "direction": "Southeast wind",
+                "speedmin": "2",
+                "speedmax": "6",
+                "gust": {}
+              },
+              {
+                "name": "Võrtsjärv",
+                "direction": "South wind",
+                "speedmin": "2",
+                "speedmax": "6",
+                "gust": {}
+              }
+            ],
+            "sea": {},
+            "peipsi": "Southeast, south wind, around evening easterly wind 2-6 m/s. Wave height up to 0.5 m. Drizzle possible. Visibility moderate or good. Air temperature 10..12°C."
+          }
+        },
+        {
+          "date": "2022-09-27",
+          "night": {
+            "phenomenon": "Variable clouds",
+            "tempmin": "-1",
+            "tempmax": "11",
+            "text": "Slightly and partly cloudy. Mainly dry. Fog in many places. Easterly wind 2-8, on islands in gusts up to 12 m/s. Air temperature -1..+6, on coast up to 11°C."
+          },
+          "day": {
+            "phenomenon": "Moderate shower",
+            "tempmin": "11",
+            "tempmax": "15",
+            "text": "Variable clouds. Locally rain. Easterly wind 2-8, on islands in gusts 12 m/s. Air temperature 11..15°C."
+          }
+        },
+        {
+          "date": "2022-09-28",
+          "night": {
+            "phenomenon": "Moderate shower",
+            "tempmin": "2",
+            "tempmax": "11",
+            "text": "Variable clouds. Rain in many places. Easterly wind 2-8, on islands in gusts 11 m/s. Air temperature 2..7, on coast up to 11°C."
+          },
+          "day": {
+            "phenomenon": "Moderate shower",
+            "tempmin": "9",
+            "tempmax": "14",
+            "text": "Cloudy with clear spells. Rain in many places. East, northeast wind 5-10, on islands and coast in gusts 15 m/s. Air temperature 9..14°C."
+          }
+        },
+        {
+          "date": "2022-09-29",
+          "night": {
+            "phenomenon": "Moderate shower",
+            "tempmin": "3",
+            "tempmax": "11",
+            "text": "Cloudy with clear spells. Locally rain. East, northeast wind 5-10, on islands and coast in gusts 15, in the morning up to 18 m/s. Air temperature 3..8, on coast up to 11°C."
+          },
+          "day": {
+            "phenomenon": "Moderate rain",
+            "tempmin": "8",
+            "tempmax": "13",
+            "text": "Overcast, towards evening locally clear spells. Rain. Northeast, east wind 5-12, on islands and coast in gusts 15-18 m/s, towards evening decreasing southeast, south wind 4-10 m/s. Air temperature 8..13°C."
+          }
+        }
+      ]
+    },
+    {
+      "forecast": [
+        {
+          "date": "2022-09-28",
+          "night": {
+            "phenomenon": "Light shower",
+            "tempmin": "-1",
+            "tempmax": "9",
+            "text": "Cloudy with clear spells. Light rain in many places. Locally fog. Variable wind 1-7 m/s. Air temperature +1..+7, under clear skies -1°C possible, on coast up to 9°C.\n\n",
+            "place": [
+              {
+                "name": "Harku",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmin": "5"
+              },
+              {
+                "name": "Jõhvi",
+                "phenomenon": "Light rain",
+                "tempmin": "7"
+              },
+              {
+                "name": "Tartu",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmin": "3"
+              },
+              {
+                "name": "Pärnu",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmin": "7"
+              },
+              {
+                "name": "Kuressaare",
+                "phenomenon": "Light shower",
+                "tempmin": "9"
+              },
+              {
+                "name": "Türi",
+                "phenomenon": "Fog",
+                "tempmin": "2"
+              }
+            ],
+            "wind": [
+              {
+                "name": "Kuusiku",
+                "direction": "South wind",
+                "speedmin": "1",
+                "speedmax": "4",
+                "gust": {}
+              },
+              {
+                "name": "Väike-Maarja",
+                "direction": "North wind",
+                "speedmin": "1",
+                "speedmax": "4",
+                "gust": {}
+              },
+              {
+                "name": "Võrtsjärv",
+                "direction": "Southeast wind",
+                "speedmin": "1",
+                "speedmax": "4",
+                "gust": {}
+              }
+            ],
+            "sea": "Forecast for Baltic Sea valid 24 hours from 19:00 Sep 25 to 19:00 UTC Sep 26, 2022.\n\nWarnings:\nNorthern Baltic: by day southeast, south increasing 12, in gusts up to 17 m/s. Wave height 1-2.5 m. \n\nWeather summary: southeastern part of Low spreading to the Baltic Sea from Scandinavia.\n\nNorthern Baltic: southerly 4-9, in gusts up to 12 m/s, by day southeast, south 6-12, in gusts up to 17 m/s. Wave height by day 1-2.5 m. Rain in many places, locally thunder possible. Visibility from good to moderate. \n\nWestern Gulf of Finland, Northern Gulf of Riga, Moonsund: variable 1-7 m/s, by morning becoming southerly 3-9 m/s, by day southeast, south 3-8, in gusts up to 12 m/s. Locally rain showers. At night locally fog possible, otherwise visibility from good to moderate.\n\nEastern Gulf of Finland: variable 1-7 m/s. Rain. Visibility moderate. ",
+            "peipsi": "Variable wind 1-4 m/s. Wave height up to 0.3 m. At times rain. Visibility moderate, towards morning fog possible. Air temperature 5..8°C."
+          },
+          "day": {
+            "phenomenon": "Cloudy with clear spells",
+            "tempmin": "10",
+            "tempmax": "15",
+            "text": "Cloudy with clear spells. Locally light rain. In the evening the sky is clearing up.\nEasterly wind 2-8, on islands in gusts 11 m/s. Air temperature 10..15°C.",
+            "place": [
+              {
+                "name": "Harku",
+                "phenomenon": "Variable clouds",
+                "tempmax": "14"
+              },
+              {
+                "name": "Jõhvi",
+                "phenomenon": "Light shower",
+                "tempmax": "11"
+              },
+              {
+                "name": "Tartu",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmax": "14"
+              },
+              {
+                "name": "Pärnu",
+                "phenomenon": "Light shower",
+                "tempmax": "14"
+              },
+              {
+                "name": "Kuressaare",
+                "phenomenon": "Variable clouds",
+                "tempmax": "14"
+              },
+              {
+                "name": "Türi",
+                "phenomenon": "Cloudy with clear spells",
+                "tempmax": "14"
+              }
+            ],
+            "wind": [
+              {
+                "name": "Kuusiku",
+                "direction": "Southeast wind",
+                "speedmin": "3",
+                "speedmax": "8",
+                "gust": {}
+              },
+              {
+                "name": "Väike-Maarja",
+                "direction": "Southeast wind",
+                "speedmin": "2",
+                "speedmax": "6",
+                "gust": {}
+              },
+              {
+                "name": "Võrtsjärv",
+                "direction": "South wind",
+                "speedmin": "2",
+                "speedmax": "6",
+                "gust": {}
+              }
+            ],
+            "sea": {},
+            "peipsi": "Southeast, south wind, around evening easterly wind 2-6 m/s. Wave height up to 0.5 m. Drizzle possible. Visibility moderate or good. Air temperature 10..12°C."
+          }
+        },
+        {
+          "date": "2022-09-27",
+          "night": {
+            "phenomenon": "Variable clouds",
+            "tempmin": "-1",
+            "tempmax": "11",
+            "text": "Slightly and partly cloudy. Mainly dry. Fog in many places. Easterly wind 2-8, on islands in gusts up to 12 m/s. Air temperature -1..+6, on coast up to 11°C."
+          },
+          "day": {
+            "phenomenon": "Moderate shower",
+            "tempmin": "11",
+            "tempmax": "15",
+            "text": "Variable clouds. Locally rain. Easterly wind 2-8, on islands in gusts 12 m/s. Air temperature 11..15°C."
+          }
+        },
+        {
+          "date": "2022-09-28",
+          "night": {
+            "phenomenon": "Moderate shower",
+            "tempmin": "2",
+            "tempmax": "11",
+            "text": "Variable clouds. Rain in many places. Easterly wind 2-8, on islands in gusts 11 m/s. Air temperature 2..7, on coast up to 11°C."
+          },
+          "day": {
+            "phenomenon": "Moderate shower",
+            "tempmin": "9",
+            "tempmax": "14",
+            "text": "Cloudy with clear spells. Rain in many places. East, northeast wind 5-10, on islands and coast in gusts 15 m/s. Air temperature 9..14°C."
+          }
+        },
+        {
+          "date": "2022-09-29",
+          "night": {
+            "phenomenon": "Moderate shower",
+            "tempmin": "3",
+            "tempmax": "11",
+            "text": "Cloudy with clear spells. Locally rain. East, northeast wind 5-10, on islands and coast in gusts 15, in the morning up to 18 m/s. Air temperature 3..8, on coast up to 11°C."
+          },
+          "day": {
+            "phenomenon": "Moderate rain",
+            "tempmin": "8",
+            "tempmax": "13",
+            "text": "Overcast, towards evening locally clear spells. Rain. Northeast, east wind 5-12, on islands and coast in gusts 15-18 m/s, towards evening decreasing southeast, south wind 4-10 m/s. Air temperature 8..13°C."
+          }
+        }
+      ]
+    }
+  ],
+  "#encoding": "iso-8859-1"
+}
